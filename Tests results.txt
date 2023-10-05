@@ -1,0 +1,9 @@
+ ✔ selects the main filling (193ms)
+    ✔ updates the total price when the bread type is selected (335ms)
+    ✔ selects extra fillings (137ms)
+    bread type selection
+      ✔ displays the selected value (72ms)
+      ✔ removes the placeholder text (1097ms)
+
+
+  5 passing (7s)
